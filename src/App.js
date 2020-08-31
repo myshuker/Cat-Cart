@@ -3,7 +3,7 @@ import "./App.css";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
 import Cart from "./pages/Cart";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Route, Link } from "react-router-dom";
 import ProductsDescrip from "./pages/ProductsDescrip";
 import CartIcon from './Components/CrtIcon'
 
